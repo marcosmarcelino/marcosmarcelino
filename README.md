@@ -1,5 +1,5 @@
 ### Olá! Eu so o Marcos Marcelino
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando HTML, CSS e Javascript para me tornar um desenvolvedor melhor que ontem
 - 😄 Pronouns: ele/dele
 
 <div align="center">
